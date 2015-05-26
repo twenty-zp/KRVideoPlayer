@@ -11,7 +11,7 @@
 
 ## 描述
 
-[源代码](https://github.com/36Kr-Mobile/KRVideoPlayer) 此内容在源代码上边改写
+[原始地址源代码](https://github.com/36Kr-Mobile/KRVideoPlayer) 此内容在源代码上边改写
 
 ## Usage
 
